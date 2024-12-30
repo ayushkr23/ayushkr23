@@ -11,17 +11,11 @@ Hello! I'm Ayush Kumar, currently a 2nd-year B.Tech student in Computer Science 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ayushkr23?cardType=level-alternate&theme=onedark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushkr23&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr23&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<a href="https://ayush00001.pythonanywhere.com/link">
-  <img
-    src="https://ayush00001.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushkr23&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=46op90kguk4yhlaahx5sen73g&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=46op90kguk4yhlaahx5sen73g&cover_image=true&theme=novatorem&show_offline=true&background_color=282c34&interchange=true&bar_color=cb686d&bar_color_cover=true)]]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
