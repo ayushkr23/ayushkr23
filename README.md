@@ -15,7 +15,7 @@ Hello! I'm Ayush Kumar, currently a 2nd-year B.Tech student in Computer Science 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushkr23&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=46op90kguk4yhlaahx5sen73g&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=46op90kguk4yhlaahx5sen73g&cover_image=true&theme=novatorem&show_offline=true&background_color=282c34&interchange=true&bar_color=cb686d&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=46op90kguk4yhlaahx5sen73g&cover_image=true&theme=novatorem&show_offline=true&background_color=282c34&interchange=true&bar_color=cb686d&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=46op90kguk4yhlaahx5sen73g&redirect=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
