@@ -38,4 +38,6 @@ Hello! I'm Ayush Kumar, currently a 2nd-year B.Tech student in Computer Science 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushkr23&icon=2&color=2)](https://visitcount.itsvg.in)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=46op90kguk4yhlaahx5sen73g&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e84711&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=46op90kguk4yhlaahx5sen73g&redirect=true)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
