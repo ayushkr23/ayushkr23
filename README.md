@@ -13,19 +13,6 @@ Hello! I'm Ayush Kumar, currently a 2nd-year B.Tech student in Computer Science 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushkr23&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkr23&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<img src="https://raw.githubusercontent.com/ayushkr23/ayushkr23/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/DeXter?">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=DeXter?&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ayushkr23&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
@@ -37,7 +24,5 @@ Hello! I'm Ayush Kumar, currently a 2nd-year B.Tech student in Computer Science 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayushkr23&icon=2&color=2)](https://visitcount.itsvg.in)
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=46op90kguk4yhlaahx5sen73g&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=e84711&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=46op90kguk4yhlaahx5sen73g&redirect=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
