@@ -39,5 +39,5 @@ Hello! I'm Ayush Kumar, currently a 2nd-year B.Tech student in Computer Science 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <div align="center">
-![snake gif](https://github.com/ayushkr23/ayushkr23/blob/output/github-snake-dark.svg)
+      ![snake gif](https://github.com/ayushkr23/ayushkr23/blob/output/github-snake-dark.svg)
 </div>
