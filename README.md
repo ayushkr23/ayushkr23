@@ -38,3 +38,5 @@ Hello! I'm Ayush Kumar, currently a 2nd-year B.Tech student in Computer Science 
 [![](https://visitcount.itsvg.in/api?id=ayushkr23&icon=2&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/ayushkr23/ayushkr23/blob/output/github-snake-dark.svg)
