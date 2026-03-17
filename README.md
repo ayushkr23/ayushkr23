@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Ayush Kumar, currently a 2nd-year B.Tech student in Computer Science and Engineering with a strong passion for data science. My academic journey revolves around exploring the fascinating world of data, algorithms, and technology. I'm driven by a curiosity to uncover patterns in data and use those insights to create impactful solutions.
+Hello! I'm Ayush Kumar, currently a 3rd-year B.Tech student in Computer Science and Engineering with a strong passion for data science. My academic journey revolves around exploring the fascinating world of data, algorithms, and technology. I'm driven by a curiosity to uncover patterns in data and use those insights to create impactful solutions.
 
 
 ## 🌐 Socials:
