@@ -31,12 +31,6 @@ Hello! I'm Ayush Kumar, currently a 3rd-year B.Tech student in Computer Science 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushkr23&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=ayushkr23&icon=2&color=2)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <p align="left">
   <img align="left" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
